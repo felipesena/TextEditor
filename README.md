@@ -1,2 +1,2 @@
-# Text_Editor
+# TextEditor
 Simple text editor.
