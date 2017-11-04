@@ -8,6 +8,11 @@ namespace EditorDeTexto
 {
     public class ForcaBruta : Busca
     {
+        /// <summary>
+        /// Realiza busca de termos em um texto
+        /// </summary>
+        /// <param name="texto">Texto onde será procurado</param>
+        /// <param name="busca">Termo que deseja encontrar</param>
         public void Buscar(string texto, string busca)
         {
             List<int> resultados = new List<int>();
